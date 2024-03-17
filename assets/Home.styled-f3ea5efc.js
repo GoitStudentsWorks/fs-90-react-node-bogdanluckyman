@@ -1,4 +1,4 @@
-import{u as i}from"./index-73024cd2.js";const e="/fs-90-react-node-bogdanluckyman/assets/hero-mobile-1x-7330b8b1.jpg",n="/fs-90-react-node-bogdanluckyman/assets/hero-mobile-2x-ab16df10.jpg",t="/fs-90-react-node-bogdanluckyman/assets/hero-tablet-1x-42f7b539.jpg",a="/fs-90-react-node-bogdanluckyman/assets/hero-tablet-2x-420aaa93.jpg",p="/fs-90-react-node-bogdanluckyman/assets/hero-1x-96488495.jpg",o="/fs-90-react-node-bogdanluckyman/assets/hero-2x-a0acb64c.jpg",r=i.div`
+import{u as i}from"./index-3c6fe094.js";const e="/fs-90-react-node-bogdanluckyman/assets/hero-mobile-1x-7330b8b1.jpg",n="/fs-90-react-node-bogdanluckyman/assets/hero-mobile-2x-ab16df10.jpg",t="/fs-90-react-node-bogdanluckyman/assets/hero-tablet-1x-42f7b539.jpg",a="/fs-90-react-node-bogdanluckyman/assets/hero-tablet-2x-420aaa93.jpg",p="/fs-90-react-node-bogdanluckyman/assets/hero-1x-96488495.jpg",o="/fs-90-react-node-bogdanluckyman/assets/hero-2x-a0acb64c.jpg",r=i.div`
   width: 375px;
   height: 812px;
   margin: 0 auto;
