@@ -12,5 +12,5 @@ export default defineConfig({
       assets: '/src/assets',
     },
   },
-  base: '/DreamTeam',
+  base: '/fs-90-react-node-bogdanluckyman',
 });
